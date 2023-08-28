@@ -13,7 +13,7 @@ Find out more about me & feel free to connect with me here:
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mychal%20Smoots-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/mychal-smoots)](www.linkedin.com/in/mychal-smoots)
-[![Medium Badge](https://img.shields.io/badge/Mychal%20Smoots-12100E?style=flat-square&logo=medium&logoColor=white&link=[https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/](https://medium.com/@mvs2527))](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
+[![Medium Badge](https://img.shields.io/badge/Mychal%20Smoots-12100E?style=flat-square&logo=medium&logoColor=white&link=[https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/](https://medium.com/@mvs2527))]
 [![Gmail Badge](https://img.shields.io/badge/-mvs2527@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mvs2527@gmail.com)](mailto:mvs2527@gmail.com)
 
 ## ⚡ Technologies
